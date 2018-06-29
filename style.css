@@ -1,20 +1,24 @@
-body{
+body
+{
 	margin: 40px auto;
 	max-width: 650px;
 	color: #444;
 	line-height: 1.8
 }
 
-p, blockquote  {
+p, blockquote 
+{
 	text-align: justify;
 	font-size: 18px;
 }
 
-h1{
+h1
+{
 	font-size: 2em;
 }
 
-button{
+button
+{
 	display: block;
 	margin: 10px auto;
 	background-color: #b8c800;
